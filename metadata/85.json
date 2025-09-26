@@ -1,0 +1,43 @@
+{
+    "name": "Trump's Royal Frog Card",
+    "description": "A unique collector's card featuring a purple frog with Donald Trump's iconic hairstyle, wearing a suit and a 'Make America Great Again' hat, set against the backdrop of Mount Rushmore. This card symbolizes the internet meme culture's intersection with political satire.",
+    "image": "https://amethyst-permanent-squirrel-396.mypinata.cloud/ipfs/bafybeifsu7qb4fugaswjudrv5ds6cerg7ufaz3o6q2txfqs64uhwfopdlq/85.png",
+    "attributes": [
+        {
+            "trait_type": "Character",
+            "value": "Purple Pepe the Frog"
+        },
+        {
+            "trait_type": "Hairstyle",
+            "value": "Donald Trump's Blonde Hair"
+        },
+        {
+            "trait_type": "Attire",
+            "value": "Business Suit, MAGA Hat"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Mount Rushmore"
+        },
+        {
+            "trait_type": "Power",
+            "value": "99"
+        },
+        {
+            "trait_type": "Charisma",
+            "value": "100"
+        },
+        {
+            "trait_type": "Meme-Ability",
+            "value": "\u221e"
+        },
+        {
+            "trait_type": "Card Type",
+            "value": "Collector's Meme Card"
+        },
+        {
+            "trait_type": "Edition",
+            "value": "1st Edition"
+        }
+    ]
+}
